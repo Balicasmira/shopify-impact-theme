@@ -163,11 +163,24 @@
         "show_country_name": true,
         "show_locale_selector": true
       }
+    },
+    "custom_html_BtwFJG": {
+      "type": "custom-html",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "html": "<p style=\"padding-left: 40px;\">اتصل بنا :</p>\n<p style=\"padding-left: 40px;\"><a href=\"mailto:help+elifashion@thesupport.care\">help+elifashion@thesupport.care</a><!-- notionvc: 3c48bdf6-ab4c-4dd4-b126-2a108fd58153 --></p>\n<p style=\"padding-left: 40px;\">200 Broadway Blvd NE, Albuquerque, NM 87102, USA<!-- notionvc: f38ed658-efcf-4be4-a0b3-48253ad09526 --></p>\n<p style=\"padding-left: 40px;\"><img src=\"https://i.ibb.co/qFnwsKL4/1-551-305-4805.png\" alt=\"\"></p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "text-with-icons",
     "faq_tLgJWA",
-    "footer"
+    "footer",
+    "custom_html_BtwFJG"
   ]
 }
