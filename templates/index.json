@@ -134,7 +134,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#1a1a1a",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -145,14 +145,14 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
+        "text": "من عالم الموضة إلى خزانتك: تشكيلاتٌ حصرية بانتظارك",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
-        "background": "",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "text_gradient": ""
       }
     },
