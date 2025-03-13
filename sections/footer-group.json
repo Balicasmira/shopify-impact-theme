@@ -18,59 +18,45 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 36,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "شحن مجاني",
+            "content": "<p><strong>شحن مجاني لجميع دول الخليج العربي دون استثناء 🎁🌍</strong></p>"
           }
         },
         "customer-support": {
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 36,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
-          }
-        },
-        "discount": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "خدمة العملاء",
+            "content": "<p>فريق دعمنا مُتاح<strong>24/7</strong>للإجابة على استفساراتكم، حل أي تحديات، أو حتى مساعدتكم في اختيار القطعة المثالية</p>"
           }
         },
         "payment": {
           "type": "item",
           "settings": {
             "icon": "picto-lock",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 36,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#ffffff",
+            "title": "الدفع الآمن",
+            "content": "<p>نحرص على حماية كل عملية شراء عبر<strong>أنظمة تشفير متقدمة (SSL)</strong>بالتعاون مع أفضل بوابات الدفع العالمية</p>"
           }
         }
       },
       "block_order": [
         "free-shipping",
         "customer-support",
-        "discount",
         "payment"
       ],
       "settings": {
@@ -91,22 +77,22 @@
         "item_agiXyd": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "هل تقومون بالشحن إلى الخارج؟",
+            "content": "<p><strong>نعم، نوفر خدمة الشحن الدولي إلى جميع دول الخليج العربي</strong></p>"
           }
         },
         "item_kwJmdd": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "ما هي مدة توصيل الطلبات؟",
+            "content": "<p><strong>نضمن توصيل طلباتكم خلال 72 ساعة</strong></p>"
           }
         },
         "item_9gGydA": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "أي سؤال؟",
+            "content": "<p>يمكنكم التواصل معنا ! يسعدنا مساعدتكم.<br/></p>"
           }
         }
       },
@@ -118,18 +104,18 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
+        "title": "الأسئلة المتكررة",
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "خدمة دعم العملاء لدينا متاحة من الاثنين إلى الجمعة: من الساعة 8 صباحًا حتى 8:30 مساءً.",
+        "answer_time": "متوسط ​​وقت الإجابة: 24 ساعة",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#ffffff",
+        "heading_color": "#ffffff",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
