@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/black-and-white-portrait-mens-fashion.jpg",
             "mobile_image": "shopify://shop_images/black-and-white-portrait-mens-fashion.jpg",
-            "content_max_width": 780,
+            "content_max_width": 720,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "اكتشف أحدث صيحات الموضة بأسعارٍ تُغريك",
