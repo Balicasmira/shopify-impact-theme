@@ -17,21 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
-            "url": ""
-          }
-        },
-        "message_hUpkN4": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here",
+            "text": "حصريا ! شحن سريع مجاني لمدة 48 ساعة فقط🔥",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_hUpkN4"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
