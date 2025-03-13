@@ -406,10 +406,11 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/man-in-white-and-light-tan-outfit.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "أناقة بلا حدود",
+            "content": "<p>في متجرنا، نؤمن بأن الأناقة تبدأ من الجودة، ولهذا نحرص على تقديم مجموعة فاخرة من الملابس الرجالية التي تجمع بين الذوق الرفيع والخامات الأوروبية الأصلية. كل قطعة في تشكيلتنا مختارة بعناية لتضمن لك إطلالة مميزة وشعورًا بالراحة والفخامة في كل مناسبة. نحن لا نقدم مجرد أزياء، بل تجربة متكاملة تعكس أسلوب الحياة العصري للرجل الواثق بنفسه</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -419,8 +420,8 @@
           "settings": {
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "جودة تليق بك",
+            "content": "<p>عندما تتسوق معنا، فأنت تختار الأفضل. منتجاتنا مستوردة من أرقى المصانع الأوروبية، مصنوعة من أجود الأقمشة، وبتفاصيل متقنة تضمن لك تألقًا يدوم. سواء كنت تبحث عن الأناقة الكلاسيكية أو العصرية، نحن هنا لنلبي جميع احتياجاتك بأسلوب راقٍ وجودة لا تُضاهى. لأنك تستحق الأفضل، نقدم لك الموضة بأعلى معايير التميز</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -434,9 +435,9 @@
         "full_width": true,
         "images_layout": "scattered",
         "collage_images_alignment": "middle",
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "button_background": "",
         "button_text_color": ""
       }
