@@ -257,20 +257,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "أناقة تُحاكي هويتك.. وتصميمٌ يلامس أحدث الصيحات العالمية"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "تشكيلات حصرية من أرقى العلامات العالمية",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>في متجرنا، نُعيد تعريف الأناقة الخليجية بتشكيلاتٍ عالمية تتناغم مع ذوقكم الرفيع</strong></p>"
           }
         }
       },
@@ -284,6 +284,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/mens-suit-in-the-city.jpg",
+        "mobile_image": "shopify://shop_images/man-dressed-in-monochrome-by-white-wall.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
