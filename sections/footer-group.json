@@ -131,7 +131,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "اشترك للحصول على قصص جديدة وعروض شخصية",
             "content": ""
           }
         },
@@ -139,6 +139,13 @@
           "type": "links",
           "settings": {
             "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "links_dmBchH": {
+          "type": "links",
+          "settings": {
+            "menu": "link-list",
             "show_menu_title": true
           }
         },
@@ -154,6 +161,7 @@
       "block_order": [
         "newsletter",
         "links",
+        "links_dmBchH",
         "text"
       ],
       "settings": {

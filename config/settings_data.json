@@ -15,6 +15,7 @@
     "block_border_radius": 24,
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
+    "button_style": "fill",
     "background": "#ffffff",
     "text_color": "#1a1a1a",
     "header_background": "#f0f0f0",
@@ -31,20 +32,16 @@
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
     "text_font": "din_next_n4",
+    "currency_code_enabled": true,
     "show_page_transition": true,
     "heading_apparition": "split_fade",
+    "show_sold_out_badge": false,
+    "show_discount": false,
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "pagefly-page-builder": {
-        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
