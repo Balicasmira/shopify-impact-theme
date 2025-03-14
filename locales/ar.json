@@ -468,5 +468,14 @@
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "complete_purchase_button_label": "أكمل طلبك",
+        "pay_now_button_label": "ادفع الآن",
+        "choose_payment_method": "اختر طريقة الدفع"
+      }
+    }
   }
 }
