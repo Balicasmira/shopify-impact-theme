@@ -490,6 +490,9 @@
         "zip_code_placeholder": "(اختياري) الرمز البريدي",
         "postal_code_label": "الرمز البريدي",
         "optional_postal_code_label": " الرمز البريدي (اختياري)"
+      },
+      "order_summary": {
+        "free_shipping_discount_label": "الشحن مجاني"
       }
     }
   }
