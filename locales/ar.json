@@ -487,7 +487,9 @@
         "country_label": "البلد",
         "zip_code_label": "الرمز البريدي",
         "optional_zip_code_label": "الرمز البريدي",
-        "zip_code_placeholder": "(اختياري) الرمز البريدي"
+        "zip_code_placeholder": "(اختياري) الرمز البريدي",
+        "postal_code_label": "الرمز البريدي",
+        "optional_postal_code_label": "(اختياري) الرمز البريدي"
       }
     }
   }
