@@ -475,6 +475,19 @@
         "complete_purchase_button_label": "أكمل طلبك",
         "pay_now_button_label": "ادفع الآن",
         "choose_payment_method": "اختر طريقة الدفع"
+      },
+      "contact": {
+        "email_label": "البريد الإلكتروني",
+        "email_placeholder": "البريد الإلكتروني",
+        "first_name_label": "الاسم الأول",
+        "optional_first_name_label": "الاسم الأول (اختياري)",
+        "last_name_label": "اسم العائلة",
+        "address1_label": "العنوان",
+        "city_label": "المدينة",
+        "country_label": "البلد",
+        "zip_code_label": "الرمز البريدي",
+        "optional_zip_code_label": "الرمز البريدي",
+        "zip_code_placeholder": "(اختياري) الرمز البريدي"
       }
     }
   }
